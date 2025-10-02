@@ -7,7 +7,7 @@ Play sounds with keyboard keys or mouse clicks, control volume, and enjoy a resp
 
 ## 🚀 Live Demo
 
-[🔗 View Demo]()
+[🔗 View Demo](https://drum-machine-tan-nine.vercel.app/)
 
 ---
 ## 📸 Screenshot
@@ -64,7 +64,7 @@ drum-machine
 
 ### 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/drum-machine.git
+   git clone https://github.com/Stabat47/drum-machine.git
    cd drum-machine
  ```
 ### 2. Install Dependencies
@@ -96,8 +96,8 @@ npm run dev
 ## 📝 License
 
 This project is licensed under the **MIT License** – feel free to use, modify, and distribute it.
+---
 
 ## 👤 Author
-
 **Landoh Clansy**
 GitHub:[@Stabat47](github.com/Stabat47)
